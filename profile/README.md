@@ -18,10 +18,10 @@
 
 # fork version
 
-xquic_forrlcc based xquic 1.3.0
+xquic_forrlcc based on xquic 1.3.0
 
 is fork from XQUIC for reinforcement learning based congestion control algorithm research
 
-xquic_rlmpquic based xquic 1.4.0
+xquic_rlmpquic based on xquic 1.4.0
 
 is fork from XQUIC for reinforcement learning based  multipath congestion control algorithm research
