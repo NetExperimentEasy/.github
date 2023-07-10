@@ -19,7 +19,7 @@ is fork from XQUIC for reinforcement learning based congestion control algorithm
 is fork from XQUIC for reinforcement learning based  multipath congestion control algorithm research
 
 ### satcc_framework
-satcc_framework是一个在用户态进行TCP拥塞控制算法开发的接口实现，基于netlink技术
+satcc_framework是一个在用户态进行TCP拥塞控制算法开发的接口实现。
 
 ### CST-simulator
 控制器，交换机网络拓扑仿真程序，可进行迁移算法设计等
