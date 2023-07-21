@@ -12,6 +12,8 @@
 
 🌈 Contribution guidelines - how can the community get involved? Email me Jacelau@outlook.com.
 
+部分仓库保密，未设公开，如果有意了解，可以email联系我。
+
 ### xquic_forrlcc based on xquic 1.3.0
 is fork from XQUIC for reinforcement learning based congestion control algorithm research
 
